@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">NavArchitectureDemo</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+
+    <string name="name">Name</string>
+    <string name="next">Next</string>
+    <string name="cancel">Cancel</string>
+    <string name="view_trans">View Transaction</string>
+    <string name="send_money">Send Money</string>
+    <string name="view_balance">View Balance</string>
+    <string name="amount">Amount</string>
+    <string name="send">Send</string>
+    <string name="viewBal">$1</string>
+    <string name="confirm">$1 was sent to Mitch</string>
+
+</resources>
